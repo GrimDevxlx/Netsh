@@ -1,2 +1,1 @@
-# netshKey
- Connection
+# open PowerShell command Prompt
